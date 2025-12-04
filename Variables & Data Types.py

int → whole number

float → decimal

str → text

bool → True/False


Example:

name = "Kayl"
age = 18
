@@ -1,0 +1,15 @@
+###Variables & Data Types
+
+###int → whole number
+
+###float → decimal
+
+###str → text
+
+###bool → True/False
+
+
+####Example:
+
+name = "Kayl"
+age = 18
